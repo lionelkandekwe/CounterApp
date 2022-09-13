@@ -1,3 +1,15 @@
 body {
   background-image: url("station.avif");
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 10px;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
 }
